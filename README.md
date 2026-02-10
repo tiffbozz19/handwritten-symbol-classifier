@@ -165,6 +165,5 @@ To reproduce the results:
 │   ├── symbol_predictor.py
 │   └── math_solver.py
 ├── assets/
-│   └── figures and screenshots
-├── .gitignore
+│   └── predicting math symbols.pptx
 └── README.md
